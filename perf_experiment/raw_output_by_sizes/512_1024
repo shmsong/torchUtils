@@ -1,0 +1,41 @@
+average iter time w/ big tensor: 2.45e+02 us
+ GPU activities:   42.25%  9.6536ms       599  16.116us  15.777us  17.120us  CudaCodeGen::kernel1(CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>)
+average iter time w/o big tensor: 2.38e+02 us
+ GPU activities:   43.97%  9.6258ms       599  16.069us  15.648us  16.896us  CudaCodeGen::kernel1(CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>)
+average iter time w/ big tensor: 2.44e+02 us
+ GPU activities:   42.21%  9.6454ms       599  16.102us  15.776us  17.344us  CudaCodeGen::kernel1(CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>)
+average iter time w/o big tensor: 2.37e+02 us
+ GPU activities:   44.04%  9.6302ms       599  16.077us  15.712us  16.928us  CudaCodeGen::kernel1(CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>)
+average iter time w/ big tensor: 2.46e+02 us
+ GPU activities:   42.17%  9.6403ms       599  16.093us  15.744us  17.280us  CudaCodeGen::kernel1(CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>)
+average iter time w/o big tensor: 2.36e+02 us
+ GPU activities:   43.98%  9.6242ms       599  16.067us  15.680us  16.864us  CudaCodeGen::kernel1(CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>)
+average iter time w/ big tensor: 2.44e+02 us
+ GPU activities:   42.07%  9.6350ms       599  16.085us  15.808us  17.056us  CudaCodeGen::kernel1(CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>)
+average iter time w/o big tensor: 2.37e+02 us
+ GPU activities:   43.95%  9.6201ms       599  16.060us  15.712us  16.929us  CudaCodeGen::kernel1(CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>)
+average iter time w/ big tensor: 2.44e+02 us
+ GPU activities:   42.17%  9.6424ms       599  16.097us  15.776us  16.801us  CudaCodeGen::kernel1(CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>)
+average iter time w/o big tensor: 2.36e+02 us
+ GPU activities:   44.03%  9.6292ms       599  16.075us  15.712us  16.960us  CudaCodeGen::kernel1(CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>)
+-----------------------------------------------------------------------------------------------------------
+average iter time w/o big tensor: 2.38e+02 us
+ GPU activities:   44.07%  9.6295ms       599  16.075us  15.648us  17.056us  CudaCodeGen::kernel1(CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>)
+average iter time w/ big tensor: 2.44e+02 us
+ GPU activities:   42.16%  9.6395ms       599  16.092us  15.744us  17.025us  CudaCodeGen::kernel1(CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>)
+average iter time w/o big tensor: 2.36e+02 us
+ GPU activities:   44.02%  9.6125ms       599  16.047us  15.648us  16.800us  CudaCodeGen::kernel1(CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>)
+average iter time w/ big tensor: 2.44e+02 us
+ GPU activities:   42.18%  9.6423ms       599  16.097us  15.776us  17.088us  CudaCodeGen::kernel1(CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>)
+average iter time w/o big tensor: 2.37e+02 us
+ GPU activities:   44.02%  9.6278ms       599  16.073us  15.648us  16.864us  CudaCodeGen::kernel1(CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>)
+average iter time w/ big tensor: 2.45e+02 us
+ GPU activities:   42.19%  9.6450ms       599  16.101us  15.776us  16.864us  CudaCodeGen::kernel1(CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>)
+average iter time w/o big tensor: 2.37e+02 us
+ GPU activities:   44.05%  9.6340ms       599  16.083us  15.680us  17.057us  CudaCodeGen::kernel1(CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>)
+average iter time w/ big tensor: 2.45e+02 us
+ GPU activities:   42.13%  9.6379ms       599  16.090us  15.777us  16.993us  CudaCodeGen::kernel1(CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>)
+average iter time w/o big tensor: 2.37e+02 us
+ GPU activities:   44.11%  9.6280ms       599  16.073us  15.680us  16.928us  CudaCodeGen::kernel1(CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>)
+average iter time w/ big tensor: 2.46e+02 us
+ GPU activities:   42.21%  9.6362ms       599  16.087us  15.776us  16.960us  CudaCodeGen::kernel1(CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>, CudaCodeGen::Tensor<float, int=2>)
