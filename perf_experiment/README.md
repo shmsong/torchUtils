@@ -1,3 +1,7 @@
+**How to Run**
+
+Every parameter is in run.sh. Edit and source run.sh
+
 **512 x 1024 Pointwise graph:**
 
 *With big tensor*
